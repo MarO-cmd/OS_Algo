@@ -1,0 +1,7 @@
+E:\T_Mar0\Visual studio\Banker_Algo\Banker_Algo\bin\Debug\Banker_Algo.exe.config
+E:\T_Mar0\Visual studio\Banker_Algo\Banker_Algo\bin\Debug\Banker_Algo.exe
+E:\T_Mar0\Visual studio\Banker_Algo\Banker_Algo\bin\Debug\Banker_Algo.pdb
+E:\T_Mar0\Visual studio\Banker_Algo\Banker_Algo\obj\Debug\Banker_Algo.csproj.AssemblyReference.cache
+E:\T_Mar0\Visual studio\Banker_Algo\Banker_Algo\obj\Debug\Banker_Algo.csproj.CoreCompileInputs.cache
+E:\T_Mar0\Visual studio\Banker_Algo\Banker_Algo\obj\Debug\Banker_Algo.exe
+E:\T_Mar0\Visual studio\Banker_Algo\Banker_Algo\obj\Debug\Banker_Algo.pdb
