@@ -1,0 +1,7 @@
+E:\T_Mar0\Visual studio\First worst best Fit\First worst best Fit\bin\Debug\First worst best Fit.exe.config
+E:\T_Mar0\Visual studio\First worst best Fit\First worst best Fit\bin\Debug\First worst best Fit.exe
+E:\T_Mar0\Visual studio\First worst best Fit\First worst best Fit\bin\Debug\First worst best Fit.pdb
+E:\T_Mar0\Visual studio\First worst best Fit\First worst best Fit\obj\Debug\First worst best Fit.csproj.AssemblyReference.cache
+E:\T_Mar0\Visual studio\First worst best Fit\First worst best Fit\obj\Debug\First worst best Fit.csproj.CoreCompileInputs.cache
+E:\T_Mar0\Visual studio\First worst best Fit\First worst best Fit\obj\Debug\First worst best Fit.exe
+E:\T_Mar0\Visual studio\First worst best Fit\First worst best Fit\obj\Debug\First worst best Fit.pdb
