@@ -1,0 +1,7 @@
+E:\T_Mar0\Visual studio\Producer and consumer\Producer and consumer\bin\Debug\Producer and consumer.exe.config
+E:\T_Mar0\Visual studio\Producer and consumer\Producer and consumer\bin\Debug\Producer and consumer.exe
+E:\T_Mar0\Visual studio\Producer and consumer\Producer and consumer\bin\Debug\Producer and consumer.pdb
+E:\T_Mar0\Visual studio\Producer and consumer\Producer and consumer\obj\Debug\Producer and consumer.csproj.AssemblyReference.cache
+E:\T_Mar0\Visual studio\Producer and consumer\Producer and consumer\obj\Debug\Producer and consumer.csproj.CoreCompileInputs.cache
+E:\T_Mar0\Visual studio\Producer and consumer\Producer and consumer\obj\Debug\Producer and consumer.exe
+E:\T_Mar0\Visual studio\Producer and consumer\Producer and consumer\obj\Debug\Producer and consumer.pdb
