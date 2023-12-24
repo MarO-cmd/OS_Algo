@@ -1,0 +1,7 @@
+E:\T_Mar0\Visual studio\Round_Robin\Round_Robin\bin\Debug\Round_Robin.exe.config
+E:\T_Mar0\Visual studio\Round_Robin\Round_Robin\bin\Debug\Round_Robin.exe
+E:\T_Mar0\Visual studio\Round_Robin\Round_Robin\bin\Debug\Round_Robin.pdb
+E:\T_Mar0\Visual studio\Round_Robin\Round_Robin\obj\Debug\Round_Robin.csproj.AssemblyReference.cache
+E:\T_Mar0\Visual studio\Round_Robin\Round_Robin\obj\Debug\Round_Robin.csproj.CoreCompileInputs.cache
+E:\T_Mar0\Visual studio\Round_Robin\Round_Robin\obj\Debug\Round_Robin.exe
+E:\T_Mar0\Visual studio\Round_Robin\Round_Robin\obj\Debug\Round_Robin.pdb
