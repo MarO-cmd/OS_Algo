@@ -1,0 +1,7 @@
+E:\T_Mar0\Visual studio\Dining-Philosophers\Dining-Philosophers\bin\Debug\Dining-Philosophers.exe.config
+E:\T_Mar0\Visual studio\Dining-Philosophers\Dining-Philosophers\bin\Debug\Dining-Philosophers.exe
+E:\T_Mar0\Visual studio\Dining-Philosophers\Dining-Philosophers\bin\Debug\Dining-Philosophers.pdb
+E:\T_Mar0\Visual studio\Dining-Philosophers\Dining-Philosophers\obj\Debug\Dining-Philosophers.csproj.AssemblyReference.cache
+E:\T_Mar0\Visual studio\Dining-Philosophers\Dining-Philosophers\obj\Debug\Dining-Philosophers.csproj.CoreCompileInputs.cache
+E:\T_Mar0\Visual studio\Dining-Philosophers\Dining-Philosophers\obj\Debug\Dining-Philosophers.exe
+E:\T_Mar0\Visual studio\Dining-Philosophers\Dining-Philosophers\obj\Debug\Dining-Philosophers.pdb
